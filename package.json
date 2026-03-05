@@ -1,0 +1,17 @@
+{
+  "name": "dataprocessing",
+  "version": "1.0.0",
+  "description": "This project helps you work with a list of **outsourcing or freelance projects** stored in a simple spreadsheet (CSV) file. It turns that spreadsheet into a clean, structured format (JSON) that you can use in reports, dashboards, or other tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {}
+}

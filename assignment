@@ -1,0 +1,13 @@
+Read the README.md file to know about the project, it's features and usage information.
+
+Assignment : Modify the code to support the features mentioned below.
+
+
+1. Clients from Europe wants JSON output such that the budget is displayed in Euro format. 
+Change the data Processing to support dollar format or Euro format depending upon `--currency=dollar/euro` option in the cli command.
+2. Clients wants to save the processed data in the database. Make the changes to support third cli option
+which saves the processed data in the database and not in the json file. Support this only for the non-filtered processing.
+
+
+Notes : When implementing these features, ensure Single Responsibility principle is followed. Explain 
+what changes you made and give explanation why you made those changes.

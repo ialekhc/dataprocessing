@@ -1,0 +1,16 @@
+Project Name,Job Poster,Job Posted Date,Job Description,Budget (USD),Completion Time
+SaaS CRM Dashboard,TechVentures Inc,2025-01-15,Build a modern CRM dashboard with real-time analytics and user management. Integrate Stripe and SendGrid. Responsive design.,12500,6 weeks
+AI Chatbot for Customer Support,SupportFlow LLC,2025-02-01,Develop intelligent chatbot using NLP for customer queries. Train on knowledge base. Fallback to human agents and Slack integration.,22000,10 weeks
+E-commerce Data Pipeline,DataDriven Co,2025-01-28,ETL pipelines for e-commerce data from Shopify and WooCommerce. Data warehouse schema and daily refresh. Sales and inventory dashboards.,8500,4 weeks
+SEO Audit and Content Strategy,GrowthHack Agency,2025-02-10,Full technical SEO audit of 50-page website. Keyword research and content gap analysis. Competitor and backlink review.,3200,3 weeks
+AWS Cloud Migration - Legacy App,Enterprise Systems,2025-01-20,Migrate monolithic Java app to AWS. Containerization ECS/EKS RDS S3. CI/CD with CodePipeline and blue-green deployment.,45000,12 weeks
+Mobile App Backend API,AppCraft Studios,2025-02-05,RESTful API for fitness app. User auth JWT workout logging push notifications. Node or Python PostgreSQL. OpenAPI docs.,9800,5 weeks
+Machine Learning Demand Forecast,Retail Analytics Pro,2025-02-12,ML model to forecast demand by SKU and region. Historical sales and seasonality. Python notebook and inference API.,18500,8 weeks
+WordPress to Headless CMS Migration,Digital Presence Ltd,2025-01-25,Migrate WordPress to headless Contentful or Strapi. Next.js frontend with SSR. Preserve URLs and redirects for SEO.,11200,7 weeks
+Google Cloud Data Lake Setup,FinServe Corp,2025-02-08,GCP data lake with Cloud Storage BigQuery Dataflow. Ingest from Salesforce SAP and flat files. Partitioning and access controls.,28000,9 weeks
+UI/UX Redesign - SaaS Admin Panel,ProductLabs,2025-02-14,Redesign admin panel. Design system in Figma and React component library. WCAG 2.1 compliance and user testing.,7500,5 weeks
+Python Data Scraping and Enrichment,LeadGen Solutions,2025-01-30,Scrape B2B company and contact data. Clean deduplicate and enrich. Output to CSV/Excel and optional CRM. Respect rate limiting.,4200,3 weeks
+Azure DevOps CI/CD for .NET,Software Factory Inc,2025-02-03,Azure DevOps pipelines for .NET solution. Build test deploy to App Service and SQL Database. Feature branches and release gates.,6500,4 weeks
+Voice Assistant Integration,SmartHome Tech,2025-02-16,Integrate IoT platform with Alexa and Google Assistant. Custom skills for device control and routines. Secure device linking.,13800,6 weeks
+Database Performance Tuning,ScaleRight DB,2025-01-22,Audit and optimize PostgreSQL. Slow queries and indexes. Target 40% improvement in p95 latency. Monitoring setup.,5500,2 weeks
+Blockchain Smart Contract Audit,CryptoTrust Labs,2025-02-18,Security audit of Solidity smart contracts for DeFi. Reentrancy overflow access control. Report with findings and remediation.,25000,5 weeks

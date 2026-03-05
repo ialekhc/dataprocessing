@@ -1,0 +1,51 @@
+[
+  {
+    "projectName": "E-commerce Data Pipeline",
+    "jobPoster": "DataDriven Co",
+    "budget": 8500,
+    "budgetFormatted": "$8,500",
+    "completionTime": "4 weeks"
+  },
+  {
+    "projectName": "SEO Audit and Content Strategy",
+    "jobPoster": "GrowthHack Agency",
+    "budget": 3200,
+    "budgetFormatted": "$3,200",
+    "completionTime": "3 weeks"
+  },
+  {
+    "projectName": "Mobile App Backend API",
+    "jobPoster": "AppCraft Studios",
+    "budget": 9800,
+    "budgetFormatted": "$9,800",
+    "completionTime": "5 weeks"
+  },
+  {
+    "projectName": "UI/UX Redesign - SaaS Admin Panel",
+    "jobPoster": "ProductLabs",
+    "budget": 7500,
+    "budgetFormatted": "$7,500",
+    "completionTime": "5 weeks"
+  },
+  {
+    "projectName": "Python Data Scraping and Enrichment",
+    "jobPoster": "LeadGen Solutions",
+    "budget": 4200,
+    "budgetFormatted": "$4,200",
+    "completionTime": "3 weeks"
+  },
+  {
+    "projectName": "Azure DevOps CI/CD for .NET",
+    "jobPoster": "Software Factory Inc",
+    "budget": 6500,
+    "budgetFormatted": "$6,500",
+    "completionTime": "4 weeks"
+  },
+  {
+    "projectName": "Database Performance Tuning",
+    "jobPoster": "ScaleRight DB",
+    "budget": 5500,
+    "budgetFormatted": "$5,500",
+    "completionTime": "2 weeks"
+  }
+]
